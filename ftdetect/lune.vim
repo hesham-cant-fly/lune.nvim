@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.lune set filetype=algo
+au BufRead,BufNewFile *.lune set filetype=lune
