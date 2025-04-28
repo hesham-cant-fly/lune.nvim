@@ -1,0 +1,8 @@
+#+title: Lune support for vim/neovim
+
+** Installation
+- lazy.nvim
+<#+BEGIN_SRC lua
+{
+}
+#+END_SRC
