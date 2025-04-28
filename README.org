@@ -2,7 +2,8 @@
 
 ** Installation
 - lazy.nvim
-<#+BEGIN_SRC lua
+#+BEGIN_SRC lua
 {
+  "hesham-cant-fly/lune.nvim",
 }
 #+END_SRC
